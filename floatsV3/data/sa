@@ -1,0 +1,43 @@
+
+ {
+    "skin": "Dual Berettas | Melondrama",
+    "collection": "DDreams & Nightmares Case",
+    "minFloat": 0,
+    "maxFloat": 1,
+    "rarity": "Covert",
+    "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_elite_cu_elites_beware_light_large.3a4517010e237136f9cca5c593beedd94a2a0a15.png"
+  },
+
+-----------------
+
+  {
+    "skin": "FAMAS | Rapid Eye Movement",
+    "collection": "DDreams & Nightmares Case",
+    "minFloat": 0,
+    "maxFloat": 1,
+    "rarity": "Classified",
+    "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_famas_gs_famas_rapid_eyes_light_large.8a166e6d36121b16dddc11b9aca94d5c541b0b56.png"
+  },
+
+
+ -------------
+
+
+  {
+    "skin": "XM1014 | Zombie Offensive",
+    "collection": "DDreams & Nightmares Case",
+    "minFloat": 0,
+    "maxFloat": 0.5,
+    "rarity": "Restricted",
+    "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_xm1014_am_xm_zombie_offensive_light_large.0e15d69fbf9b3d93b14f54f85fa84bcb45c8f49e.png"
+  },
+
+-----------------------
+  {
+    "skin": "SCAR-20 | Poultrygeist",
+    "collection": "DDreams & Nightmares Case",
+    "minFloat": 0,
+    "maxFloat": 0.57,
+    "rarity": "Mil-Spec",
+    "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_scar20_sp_scar_chickenfight_light_large.b32fde27f0f45456b4c1e5f049be6f44bc8649b7.png"
+  },
